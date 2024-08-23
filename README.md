@@ -28,4 +28,3 @@ This is a simple Book List application built using HTML, CSS, and JavaScript. It
 
 4. Click the "X" next to a book to remove it from the list.
 
-5. Open index.html in your browser.
